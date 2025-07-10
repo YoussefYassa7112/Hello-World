@@ -7,3 +7,5 @@
 `mv` moves files (or renames them) -- `man mv`
 
 `mkdir` creates a new directory -- `man mkdir`
+
+THIS IS A COMPLETLY NEW LINE
